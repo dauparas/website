@@ -20,9 +20,10 @@ email = ""
 
 # List (academic) interests or hobbies
 interests = [
-  "Artificial Intelligence",
-  "Computational Linguistics",
-  "Information Retrieval"
+  "Representation Learning",
+  "Reinforcement Learning",
+  "Complex biological systems",
+  "Single Cell RNA data"
 ]
 
 # List qualifications (such as academic degrees)
@@ -75,6 +76,4 @@ interests = [
 
 +++
 
-Justas Dauparas is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I am a Postdoctoral Fellow with Mor Nitzan at Harvard University. I am interested in machine learning, reinforcement learning, robotics, and complex and biological systems. I have just finished my PhD at University of Cambridge and the internship at Microsoft Research.
