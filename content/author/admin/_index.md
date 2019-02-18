@@ -27,7 +27,7 @@ interests = [
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Applied Maths"
+  course = "PhD in Biophysics"
   institution = "University of Cambridge"
   year = 2018
 
