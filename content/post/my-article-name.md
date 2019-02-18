@@ -20,10 +20,6 @@ categories = []
 +++
 
 This is a first post about a Random Matrix theory.
-\begin{align}
-y &= ax+b,\\
-z &= cx+d.
-\end{align}
-
+$$f(x) = \int_0^{\infty} g(k)dk$$ 
 This is the end.
 
