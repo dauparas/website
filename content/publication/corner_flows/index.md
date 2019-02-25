@@ -27,7 +27,7 @@ abstract = "Singular solutions of Stokes equations play important roles in a var
 summary = "Theoretical and experimental work on understanding leading-order Stokes flows near a 3D corner."
 
 # Digital Object Identifier (DOI)
-doi = "https://doi.org/10.1093/imamat/hxy014"
+doi = "10.1093/imamat/hxy014"
 
 # Is this a featured publication? (true/false)
 featured = false

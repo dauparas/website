@@ -27,7 +27,7 @@ abstract = "Flagellated bacteria on nutrient-rich substrates can differentiate i
 summary = "We explain the systematic chiral flow in the clockwise direction ahead of the bacterial swarm."
 
 # Digital Object Identifier (DOI)
-doi = "https://doi.org/10.1103/PhysRevFluids.1.043202"
+doi = "10.1103/PhysRevFluids.1.043202"
 
 # Is this a featured publication? (true/false)
 featured = false

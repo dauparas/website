@@ -27,7 +27,7 @@ abstract = "Recent experiments proposed to use confined bacteria in order to gen
 summary = "The rotation of a helical bacterial flagellum induces both a force and a torque on the surrounding fluid, both of which lead to a net flow along the surface."
 
 # Digital Object Identifier (DOI)
-doi = "https://aip.scitation.org/doi/10.1063/1.5012070"
+doi = "10.1063/1.5012070"
 
 # Is this a featured publication? (true/false)
 featured = false
