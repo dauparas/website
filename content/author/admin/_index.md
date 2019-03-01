@@ -13,7 +13,7 @@ role = "Postdoctoral Fellow"
 organizations = [ { name = "Harvard University", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Postdoctoral Fellow at Harvard working on representation learning."
+bio = "Postdoctoral Fellow at Harvard working on representation learning"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
@@ -76,4 +76,4 @@ interests = [
 +++
 
 I am a Postdoctoral Fellow at Harvard University working with [Mor Nitzan](http://mornitzan.wixsite.com/mysite/).
-My research interests lie in the application of mathematics to complex and biological systems. I am particularly interested in representation learning for the analysis of the single-cell RNA data. This analysis can reveal rare cell populations, regulatory relationships between genes, and track the trajectories of distinct cell lineages in development. Moreover, I am fascinated by the quickly developing reinforcement learning field. I investigated policy gradient and Q-learning algorithms at Microsoft Research after finishing my PhD in biophysics with [Eric Lauga](http://www.damtp.cam.ac.uk/user/lauga/).
+My research interests lie in the application of mathematics to complex and biological systems. I am particularly interested in representation learning for the analysis of single-cell RNA data. This analysis can reveal rare cell populations, regulatory relationships between genes, and track the trajectories of distinct cell lineages in development. Moreover, I am fascinated by the quickly developing reinforcement learning field. I investigated policy gradient and Q-learning algorithms at Microsoft Research after finishing my PhD in biophysics with [Eric Lauga](http://www.damtp.cam.ac.uk/user/lauga/).

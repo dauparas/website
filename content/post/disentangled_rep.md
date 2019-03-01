@@ -20,4 +20,4 @@ categories = []
 +++
 
 What are disentangled representations? The recent paper ["Towards a Definition of
-Disentangled Representations"] (https://arxiv.org/pdf/1812.02230.pdf) lays out a mathematical definition using group and representation theory.
+Disentangled Representations"] (https://arxiv.org/pdf/1812.02230.pdf) lays out a mathematical definition using group and representation theories.
