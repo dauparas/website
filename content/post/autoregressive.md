@@ -1,6 +1,6 @@
 +++
-title = "Disentangled Representations"
-date = 2019-02-25T12:24:27-05:00
+title = "Autoregressive Models"
+date = 2019-03-29T12:18:58-04:00
 draft = false
 
 # Tags and categories
@@ -19,5 +19,5 @@ categories = []
   focal_point = ""
 +++
 
-What are disentangled representations? The recent paper ["Towards a Definition of
-Disentangled Representations"] (https://arxiv.org/pdf/1812.02230.pdf) lays out a mathematical definition using group and representation theories.
+Let's talk about Autoregressive Models!
+

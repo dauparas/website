@@ -25,7 +25,7 @@ The course covers Deep Generative Models and Self-supervised Learning with the f
 
 Topics:
 
-* [Autoregressive Models]({ {< relref "autoregressive_models.md" >}})
+* [Autoregressive Models]({{< ref "autoregressive.md" >}})
 * Lossless Compression
 * Flow Models
 * Latent Variable Models
