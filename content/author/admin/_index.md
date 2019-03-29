@@ -13,7 +13,7 @@ role = "Postdoctoral Fellow"
 organizations = [ { name = "Harvard University", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Postdoctoral Fellow at Harvard working on representation learning"
+bio = ""
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
