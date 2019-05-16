@@ -34,7 +34,7 @@ Topics:
 
 Introduction
 
-What is Unsupervised Learning? It is a type of machine learning algorithm that draws inferences from data which does not have labeled responses, so no direct classification or regression can be done.
+What is Unsupervised Learning??? It is a type of machine learning algorithm that draws inferences from data which does not have labeled responses, so no direct classification or regression can be done.
 * Generative Models
 * Self-supervised Learning (labels are given in a clever way), like time, one patch above the other.
 
