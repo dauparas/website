@@ -31,3 +31,21 @@ Topics:
 * Latent Variable Models
 * Bits-Back Coding
 * Implicit Models
+
+Introduction
+
+What is Unsupervised Learning? It is a type of machine learning algorithm that draws inferences from data which does not have labeled responses, so no direct classification or regression can be done.
+* Generative Models
+* Self-supervised Learning (labels are given in a clever way), like time, one patch above the other.
+
+Intelligence is all about compression. 
+
+Applications:
+* General novel data
+* Compression
+* Improve downstream tasks
+* Flexible building blocks for reusing in other problems
+
+VAEs, GANs, zebras, bigGAN (maybe latent space is useful), styleGAN, WaveNet, video generation, text generation, compression (WaveOne vs JPEG), sentiment detection. 
+
+
