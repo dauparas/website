@@ -25,7 +25,7 @@ The course covers Deep Generative Models and Self-supervised Learning with the f
 
 Topics:
 
-* [Autoregressive Models]({{< ref "autoregressive.md" >}})
+* Autoregressive Models
 * Lossless Compression
 * Flow Models
 * Latent Variable Models
@@ -41,6 +41,7 @@ What is Unsupervised Learning? It is a type of machine learning algorithm that d
 Intelligence is all about compression. 
 
 Applications:
+
 * General novel data
 * Compression
 * Improve downstream tasks

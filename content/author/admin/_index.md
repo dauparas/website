@@ -20,8 +20,10 @@ email = ""
 
 # List (academic) interests or hobbies
 interests = [
-  "Representation learning",
+  "Protein structure prediction and design",
   "Single-cell RNA data",
+  "Variational autoencoders",
+  "Natural language processing",
   "Reinforcement learning",
 ]
 
