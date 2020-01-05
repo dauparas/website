@@ -38,7 +38,7 @@ What is Unsupervised Learning??? It is a type of machine learning algorithm that
 * Generative Models
 * Self-supervised Learning (labels are given in a clever way), like time, one patch above the other.
 
-Intelligence is all about compression. 
+Intelligence is all about compression.
 
 Applications:
 
