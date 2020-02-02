@@ -2,3 +2,7 @@
 	path = public
 	url = git@github.com:dauparas/dauparas.github.io.git
 	branch = master
+[submodule "public/public"]
+	path = public/public
+	url = https://github.com/dauparas/dauparas.github.io.git
+	branch = master
