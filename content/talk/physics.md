@@ -1,6 +1,6 @@
 +++
 title = "Theoretical Physics"
-date = 2019-03-29T11:26:20-04:00
+#date = 2019-03-29T11:26:20-04:00
 draft = false
 
 # Tags and categories

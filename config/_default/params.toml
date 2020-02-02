@@ -50,7 +50,7 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "A@B.com where A=justas.dauparas, B=gmail"
+email = "A@B.com where A=justas B=uw.edu"
 phone = ""
 address = ""
 

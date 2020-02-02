@@ -10,7 +10,7 @@ role = "Postdoctoral Fellow"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Harvard University", url = "" } ]
+organizations = [ { name = "University of Washington", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = ""
@@ -21,13 +21,16 @@ email = ""
 # List (academic) interests or hobbies
 interests = [
   "Protein structure prediction and design",
-  "Single-cell RNA data",
-  "Variational autoencoders",
-  "Natural language processing",
-  "Reinforcement learning",
+  "Generative models",
+  "Transfer learning",
 ]
 
 # List qualifications (such as academic degrees)
+[[education.courses]]
+  course = "Postdoctoral Fellow"
+  institution = "Harvard University"
+  year = 2019
+
 [[education.courses]]
   course = "PhD in Biophysics"
   institution = "University of Cambridge"
@@ -77,4 +80,5 @@ interests = [
 
 +++
 
-I am a Postdoctoral Fellow at Harvard University working with [Mor Nitzan] (https://mornitzan.wixsite.com/mysite/) and collaborating with [Sergey Ovchinnikov] (http://site.solab.org/lab). My research interests lie in the application of mathematics and physics to complex and biological systems. I am particularly interested in using machine learning tools such as autoencoders and natural language models for protein structure prediction and design, and for analysis of single-cell RNA data. Moreover, I am fascinated by the quickly developing self-supervised and reinforcement learning fields. I investigated policy gradient and Q-learning algorithms at Microsoft Research, Cambridge while finishing my PhD in Biophysics with [Eric Lauga](http://www.damtp.cam.ac.uk/user/lauga/).
+I am a Postdoctoral Fellow at [the Baker Lab](https://www.bakerlab.org/) which is part of the University of Washington [Institute for Protein Design](https://www.ipd.uw.edu/). My research interests lie in the application of mathematics and physics to complex and biological systems. I am particularly interested protein structure prediction. 
+<!-- I am interested in The Harvard University working with [Mor Nitzan] (https://mornitzan.wixsite.com/mysite/) and collaborating with [Sergey Ovchinnikov] (http://site.solab.org/lab). My research interests lie in the application of mathematics and physics to complex and biological systems. I am particularly interested in using machine learning tools such as autoencoders and natural language models for protein structure prediction and design, and for analysis of single-cell RNA data. Moreover, I am fascinated by the quickly developing self-supervised and reinforcement learning fields. I investigated policy gradient and Q-learning algorithms at Microsoft Research, Cambridge while finishing my PhD in Biophysics with [Eric Lauga](http://www.damtp.cam.ac.uk/user/lauga/). -->

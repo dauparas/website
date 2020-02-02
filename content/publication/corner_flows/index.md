@@ -1,4 +1,4 @@
-+++
+<!-- +++
 title = "Leading-order Stokes flows near a corner"
 date = 2018-02-24T20:01:39-05:00
 
@@ -76,4 +76,4 @@ url_source = ""
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
-+++
++++ -->

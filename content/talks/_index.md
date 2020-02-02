@@ -1,5 +1,5 @@
 +++
-title = "Links"
+title = "My_links"
 
 # View.
 #   1 = List
@@ -10,6 +10,5 @@ view = 2
 # Optional featured image (relative to `static/img/` folder).
 [header]
 image = ""
-caption = "Hi"
+caption = ""
 +++
-Hello

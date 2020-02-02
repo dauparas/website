@@ -101,7 +101,7 @@ Z(\color{green}{\boldsymbol{b}},\color{red}{\boldsymbol{W}})&=\sum\_{\mathbf{X}}
 Z(\color{green}{\boldsymbol{b}},\color{red}{\boldsymbol{W}})&=\prod\_{l=1}^{L} \sum
 \end{align}
 
-
+In progress!
 
 <!-- ![image alt text](./1.png) -->
 
