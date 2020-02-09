@@ -828,11 +828,11 @@ article {
 }
 
 .article-container {
-  max-width: 760px;
+  max-width: 960px;
   padding: 0 20px 0 20px;
   margin: 0 auto 0 auto;
 }
-
+/* above before 760 */
 .split-header {
   margin-bottom: 2rem;
 }
@@ -1965,9 +1965,9 @@ div.alert a {
  **************************************************/
 
 .docs-article-container {
-  max-width: 760px;
+  max-width: 960px;
 }
-
+/* above before 760 */
 /* Documentation: article footer. */
 
 .docs .body-footer {

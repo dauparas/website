@@ -1,9 +1,9 @@
 +++
-title = "Pseudolikelihood"
-subtitle = ""
+title = "Modeling biological sequences"
+subtitle = "by Justas Dauparas"
 
 # Add a summary to display on homepage (optional).
-summary = ""
+summary = "Revealing the functional sites of biological sequences, such as evolutionary conserved."
 
 date = 2019-06-07T06:44:46-04:00
 draft = false
@@ -37,19 +37,39 @@ categories = []
 
 <a href="https://colab.research.google.com/github/sokrypton/seqmodels/blob/master/seqmodels.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-**Bayesian inference**
+<a href="https://arxiv.org/pdf/1906.02598.pdf" target="_parent"><img src="./arxiv_logo.jpg" width=30 height=30 alt="arxiv.org"/></a>
+
+Check out Google Colab and arXiv links above!
+
+**Motivation**
+
+Suppose that someone gives you $N$ sequences. Every sequence is of the same length $L$ and every element in a sequence can take $K$ different values. For example those sequences could be aligned DNA sequences which are made up of four base pairs ($K=4$), or aligned protein sequences which are made up of twenty canonical amino acids ($K=20$). Read more [here](https://en.wikipedia.org/wiki/Multiple_sequence_alignment) about how multiple sequences are aligned. Denote the given data as $\mathbf{X}$. The question is can you build a model that describes the given data.
+
+{{< figure src="./pseudo_fig1.svg" caption="<b>Figure 1.</b> The given data $\mathbf{X}$ has $N$ sequences, every sequence is of length $L$ and every position in the sequence can take $K$ different values. In this cartoon there are 6 sequences, of length 12 and there are 3 possible values - yellow, green, or blue." width="420">}}
+
+**Bayesian Modelling**
+
+Given the data $\mathbf{X}$   The goal is to find $\boldsymbol{\theta}$ that explains the data. Hence, using the [Bayes’ rule](http://mlg.eng.cam.ac.uk/zoubin/talks/lect1bayes.pdf) write 
+
+\begin{align}
+p(\boldsymbol{\theta}\vert \mathbf{X}) = \frac{p(\mathbf{X}\vert \boldsymbol{\theta})p(\boldsymbol{\theta})}{\sum\_{\boldsymbol{\theta}}p(\mathbf{X}\vert \boldsymbol{\theta})p(\boldsymbol{\theta})},
+\end{align}
+
+where $p(\boldsymbol{\theta})$ is the prior on the parameters of the model, $p(\mathbf{X}\vert \boldsymbol{\theta})$ is the likelihood of observing the data given parameters of the model, and $p(\boldsymbol{X})=\sum\_{\boldsymbol{\theta}}p(\mathbf{X}\vert \boldsymbol{\theta})p(\boldsymbol{\theta})$ is normalization factor.
 
 **Modelling sequences**
 
-We would like to model a distribution of some sequences of lenght $L$ where every element in the sequence can take $K$ different values. Write the parametric probability distribution for the sequence as a joint probability of elements in the sequence, i.e.
+We would like to model a distribution of sequences of length $L$ where every element in a sequence can take $K$ different values. Write a parametric probability distribution for a sequence as a joint probability of elements in that sequence, i.e.
 \begin{align}
 p(\mathbf{x};\boldsymbol{\theta})=p(x\_1, x\_2,..., x\_L;\boldsymbol{\theta}),
 \end{align}
-where $\boldsymbol{\theta}$ are parameters of the distribution. Now suppose that we got $N$ examples drawn from this distribution. Denote the data as $\mathbf{X}\in \mathbb{R}^{N\times L\times K}$. The goal is to find $\boldsymbol{\theta}$ that explains the data.
+where $\boldsymbol{\theta}$ are parameters of the distribution and $\mathbf{x}=(x\_1, x\_2,..., x\_L)\in \mathbb{R}^{L\times K}$ is a sequence. Now suppose that we got $N$ examples drawn from this distribution. Denote the data as $\mathbf{X}\in \mathbb{R}^{N\times L\times K}$. The goal is to find $\boldsymbol{\theta}$ that explains the data. Hence, using the [Bayes’ rule](http://mlg.eng.cam.ac.uk/zoubin/talks/lect1bayes.pdf) write 
 
 \begin{align}
-p(\boldsymbol{\theta}\vert \mathbf{X}) = \frac{p(\mathbf{X}\vert \boldsymbol{\theta})p(\boldsymbol{\theta})}{\sum\_{\boldsymbol{\theta}}p(\mathbf{X}\vert \boldsymbol{\theta})p(\boldsymbol{\theta})}.
+p(\boldsymbol{\theta}\vert \mathbf{X}) = \frac{p(\mathbf{X}\vert \boldsymbol{\theta})p(\boldsymbol{\theta})}{\sum\_{\boldsymbol{\theta}}p(\mathbf{X}\vert \boldsymbol{\theta})p(\boldsymbol{\theta})},
 \end{align}
+
+where $p(\boldsymbol{\theta})$ is the prior on the parameters of the model, $p(\mathbf{X}\vert \boldsymbol{\theta})$ is the likelihood of observing the data given parameters of the model, and $p(\boldsymbol{X})=\sum\_{\boldsymbol{\theta}}p(\mathbf{X}\vert \boldsymbol{\theta})p(\boldsymbol{\theta})$ is normalization factor.
 
 **Partition function**
 
@@ -106,3 +126,17 @@ In progress!
 <!-- ![image alt text](./1.png) -->
 
 {{< figure src="./1.png" caption="Figure 1. The data matrix $\mathbf{X}\in \mathbb{R}^{N\times LK} = \mathbb{R}^{N\times L\times K}$ has $N$ sequences, every sequence is of length $L$ and every position in the sequence can have $K$ different states. In this picture states are encoded using a one-hot representation." width="420">}}
+
+**BERT**
+
+[BERT](https://arxiv.org/pdf/1810.04805.pdf) (Bidirectional Encoder Representations from Transformers) is a Markov Random Field model. Let $\mathbf{x} = (x\_1,...,x\_L)$ be a sequence of random variables $x\_i$, each of which is categorical. 
+
+\begin{align}
+\phi(\mathbf{x}) = \prod\_{l=1}^{L}\phi\_{l}(\mathbf{x}) = \exp{\left(\sum\_{l=1}^{L}\log{\phi\_{l}(\mathbf{x})}\right)}
+\end{align}
+where
+\begin{align}
+\log{\phi\_{l}(\mathbf{x})}
+\end{align}
+
+New

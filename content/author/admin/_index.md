@@ -22,10 +22,16 @@ email = ""
 interests = [
   "Protein structure prediction and design",
   "Generative models",
-  "Transfer learning",
+  "Self-supervised learning",
+  "Transfer learning"
 ]
 
 # List qualifications (such as academic degrees)
+[[education.courses]]
+  course = "Postdoctoral Fellow"
+  institution = "University of Washington"
+  year = 2020
+
 [[education.courses]]
   course = "Postdoctoral Fellow"
   institution = "Harvard University"
@@ -80,5 +86,5 @@ interests = [
 
 +++
 
-I am a Postdoctoral Fellow at [the Baker Lab](https://www.bakerlab.org/) which is part of the University of Washington [Institute for Protein Design](https://www.ipd.uw.edu/). My research interests lie in the application of mathematics and physics to complex and biological systems. I am particularly interested protein structure prediction. 
+I am a Postdoctoral Fellow at [the Baker Lab](https://www.bakerlab.org/) which is part of the University of Washington [Institute for Protein Design](https://www.ipd.uw.edu/). My research interests lie in the application of mathematics and physics to complex and biological systems. I am particularly interested protein structure prediction and design. 
 <!-- I am interested in The Harvard University working with [Mor Nitzan] (https://mornitzan.wixsite.com/mysite/) and collaborating with [Sergey Ovchinnikov] (http://site.solab.org/lab). My research interests lie in the application of mathematics and physics to complex and biological systems. I am particularly interested in using machine learning tools such as autoencoders and natural language models for protein structure prediction and design, and for analysis of single-cell RNA data. Moreover, I am fascinated by the quickly developing self-supervised and reinforcement learning fields. I investigated policy gradient and Q-learning algorithms at Microsoft Research, Cambridge while finishing my PhD in Biophysics with [Eric Lauga](http://www.damtp.cam.ac.uk/user/lauga/). -->
