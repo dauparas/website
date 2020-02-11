@@ -5,7 +5,7 @@ subtitle = "by Justas Dauparas"
 # Add a summary to display on homepage (optional).
 summary = "Revealing the functional sites of biological sequences, such as evolutionary conserved."
 
-date = 2019-06-07T06:44:46-04:00
+date = 2020-02-09T06:44:46-04:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
