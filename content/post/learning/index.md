@@ -34,24 +34,14 @@ categories = []
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
-
-### Theoretical Physics
-
-### Machine Learning Blogs
-
-### Computer Science
-
-### Biology
-1. [Introduction to Biology - The Secret of Life](https://www.edx.org/course/introduction-to-biology-the-secret-of-life-3),
-
-### Lectures
+### Machine Learning Lectures
 1. [fast.ai](https://www.fast.ai/),
 2. [Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/index.html#schedule), CS224n at Stanford,
 3. [Convolutional Neural Networks for Visual Recognition](http://vision.stanford.edu/teaching/cs231n/) CS231n at Stanford,
 4. [Deep Unsupervised Learning](https://sites.google.com/view/berkeley-cs294-158-sp20/home), CS294-158 at UC Berkeley,
 5. [Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/) CS285 at UC Berkeley,
 
-### Books
+### Machine Learning Books
 1. [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) by Christopher M. Bishop,
 2. [Information Theory, Inference, and Learning Algorithms](http://www.inference.org.uk/itprnn/book.pdf) by David J.C. MacKay, [videos](https://www.youtube.com/watch?v=BCiZc0n6COY&list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6),
 3. [Machine Learning: A Probabilistic Perspective](http://noiselab.ucsd.edu/ECE228/Murphy_Machine_Learning.pdf) by Kevin P. Murphy,
@@ -61,5 +51,27 @@ categories = []
 7. [All of Statistics A Concise Course in Statistical Inference](https://www.stat.cmu.edu/~larry/all-of-statistics/) by Larry Wasserman,
 8. [Reinforcement learning: An introduction](http://www.incompleteideas.net/book/RLbook2018.pdf) by Richard S. Sutton and Andrew G. Barto.
 
+### Machine Learning Blogs
 
+### Computer Science Lectures
+1. [Structure and Interpretation of Computer Programs] (https://web.mit.edu/alexmv/6.037/sicp.pdf) by
 
+### Biology Lectures
+1. [Introduction to Biology - The Secret of Life](https://www.edx.org/course/introduction-to-biology-the-secret-of-life-3),
+
+### David Tong: Lectures on Theoretical Physics
+1. [Dynamics and Relativity](http://www.damtp.cam.ac.uk/user/tong/relativity.html)
+2. [Classical Dynamics] (http://www.damtp.cam.ac.uk/user/tong/dynamics.html)
+3. [Electromagnetism] (http://www.damtp.cam.ac.uk/user/tong/em.html)
+4. [Topics in Quantum Mechanics] (http://www.damtp.cam.ac.uk/user/tong/topicsinqm.html)
+5. [Solid State Physics] (http://www.damtp.cam.ac.uk/user/tong/solidstate.html)
+6. [Quantum Hall Effect] (http://www.damtp.cam.ac.uk/user/tong/qhe.html)
+7. [Statistical Physics] (http://www.damtp.cam.ac.uk/user/tong/statphys.html)
+8. [Kinetic Theory] (http://www.damtp.cam.ac.uk/user/tong/kinetic.html)
+9. [Statistical Field Theory] (http://www.damtp.cam.ac.uk/user/tong/sft.html)
+10. [Quantum Field Theory] (http://www.damtp.cam.ac.uk/user/tong/qft.html)
+11. [Gauge Theory] (http://www.damtp.cam.ac.uk/user/tong/gaugetheory.html)
+12. [Solitons] (http://www.damtp.cam.ac.uk/user/tong/tasi.html)
+13. [General Relativity] (http://www.damtp.cam.ac.uk/user/tong/gr.html)
+14. [Cosmology] (http://www.damtp.cam.ac.uk/user/tong/cosmo.html)
+15. [String Theory] (http://www.damtp.cam.ac.uk/user/tong/string.html)
