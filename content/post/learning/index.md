@@ -1,9 +1,9 @@
 +++
-title = "Learn it yourself"
+title = "Learn it yourself - online resources"
 subtitle = "by Justas Dauparas"
 
 # Add a summary to display on homepage (optional).
-summary = "Some useful resources!"
+summary = "Some useful online lectures and books on machine learning!"
 
 date = 2020-04-25T06:44:46-04:00
 draft = false
@@ -34,12 +34,14 @@ categories = []
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
+This is a short list of lectures and books with links for myself and anyone else who might find them useful.
+
 ### Lectures on Machine Learning
 1. [fast.ai](https://www.fast.ai/),
 2. [Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/index.html#schedule), CS224n at Stanford,
 3. [Convolutional Neural Networks for Visual Recognition](http://vision.stanford.edu/teaching/cs231n/) CS231n at Stanford,
 4. [Deep Unsupervised Learning](https://sites.google.com/view/berkeley-cs294-158-sp20/home), CS294-158 at UC Berkeley,
-5. [Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/) CS285 at UC Berkeley,
+5. [Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/) CS285 at UC Berkeley.
 
 ### Machine Learning Books
 1. [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) by Christopher M. Bishop,
@@ -59,18 +61,18 @@ categories = []
 1. [Introduction to Biology - The Secret of Life](https://www.edx.org/course/introduction-to-biology-the-secret-of-life-3), -->
 
 ### Lectures on Theoretical Physics by David Tong
-1. [Dynamics and Relativity](http://www.damtp.cam.ac.uk/user/tong/relativity.html)
-2. [Classical Dynamics] (http://www.damtp.cam.ac.uk/user/tong/dynamics.html)
-3. [Electromagnetism] (http://www.damtp.cam.ac.uk/user/tong/em.html)
-4. [Topics in Quantum Mechanics] (http://www.damtp.cam.ac.uk/user/tong/topicsinqm.html)
-5. [Solid State Physics] (http://www.damtp.cam.ac.uk/user/tong/solidstate.html)
-6. [Quantum Hall Effect] (http://www.damtp.cam.ac.uk/user/tong/qhe.html)
-7. [Statistical Physics] (http://www.damtp.cam.ac.uk/user/tong/statphys.html)
-8. [Kinetic Theory] (http://www.damtp.cam.ac.uk/user/tong/kinetic.html)
-9. [Statistical Field Theory] (http://www.damtp.cam.ac.uk/user/tong/sft.html)
-10. [Quantum Field Theory] (http://www.damtp.cam.ac.uk/user/tong/qft.html)
-11. [Gauge Theory] (http://www.damtp.cam.ac.uk/user/tong/gaugetheory.html)
-12. [Solitons] (http://www.damtp.cam.ac.uk/user/tong/tasi.html)
-13. [General Relativity] (http://www.damtp.cam.ac.uk/user/tong/gr.html)
-14. [Cosmology] (http://www.damtp.cam.ac.uk/user/tong/cosmo.html)
-15. [String Theory] (http://www.damtp.cam.ac.uk/user/tong/string.html)
+1. [Dynamics and Relativity](http://www.damtp.cam.ac.uk/user/tong/relativity.html),
+2. [Classical Dynamics] (http://www.damtp.cam.ac.uk/user/tong/dynamics.html),
+3. [Electromagnetism] (http://www.damtp.cam.ac.uk/user/tong/em.html),
+4. [Topics in Quantum Mechanics] (http://www.damtp.cam.ac.uk/user/tong/topicsinqm.html),
+5. [Solid State Physics] (http://www.damtp.cam.ac.uk/user/tong/solidstate.html),
+6. [Quantum Hall Effect] (http://www.damtp.cam.ac.uk/user/tong/qhe.html),
+7. [Statistical Physics] (http://www.damtp.cam.ac.uk/user/tong/statphys.html),
+8. [Kinetic Theory] (http://www.damtp.cam.ac.uk/user/tong/kinetic.html),
+9. [Statistical Field Theory] (http://www.damtp.cam.ac.uk/user/tong/sft.html),
+10. [Quantum Field Theory] (http://www.damtp.cam.ac.uk/user/tong/qft.html),
+11. [Gauge Theory] (http://www.damtp.cam.ac.uk/user/tong/gaugetheory.html),
+12. [Solitons] (http://www.damtp.cam.ac.uk/user/tong/tasi.html),
+13. [General Relativity] (http://www.damtp.cam.ac.uk/user/tong/gr.html),
+14. [Cosmology] (http://www.damtp.cam.ac.uk/user/tong/cosmo.html),
+15. [String Theory] (http://www.damtp.cam.ac.uk/user/tong/string.html).
