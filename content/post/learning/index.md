@@ -3,7 +3,7 @@ title = "Learn it yourself - online resources"
 subtitle = "by Justas Dauparas"
 
 # Add a summary to display on homepage (optional).
-summary = "Some useful online lectures and books on machine learning!"
+summary = "Some books and online lectures on machine learning!"
 
 date = 2020-04-25T06:44:46-04:00
 draft = false
