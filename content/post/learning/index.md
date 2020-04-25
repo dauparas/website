@@ -34,14 +34,7 @@ categories = []
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
-This is a short list of lectures and books with links for myself and anyone else who might find them useful.
-
-### Lectures on Machine Learning
-1. [fast.ai](https://www.fast.ai/),
-2. [Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/index.html#schedule), CS224n at Stanford,
-3. [Convolutional Neural Networks for Visual Recognition](http://vision.stanford.edu/teaching/cs231n/) CS231n at Stanford,
-4. [Deep Unsupervised Learning](https://sites.google.com/view/berkeley-cs294-158-sp20/home), CS294-158 at UC Berkeley,
-5. [Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/) CS285 at UC Berkeley.
+This is a short list of books and lectures with links for myself and anyone else who might find them useful. A book is worth a thousand arXiv papers!
 
 ### Machine Learning Books
 1. [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) by Christopher M. Bishop,
@@ -53,6 +46,12 @@ This is a short list of lectures and books with links for myself and anyone else
 7. [All of Statistics A Concise Course in Statistical Inference](https://www.stat.cmu.edu/~larry/all-of-statistics/) by Larry Wasserman,
 8. [Reinforcement learning: An introduction](http://www.incompleteideas.net/book/RLbook2018.pdf) by Richard S. Sutton and Andrew G. Barto.
 
+### Lectures on Machine Learning
+1. [fast.ai](https://www.fast.ai/),
+2. [Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/index.html#schedule), CS224n at Stanford,
+3. [Convolutional Neural Networks for Visual Recognition](http://vision.stanford.edu/teaching/cs231n/) CS231n at Stanford,
+4. [Deep Unsupervised Learning](https://sites.google.com/view/berkeley-cs294-158-sp20/home), CS294-158 at UC Berkeley,
+5. [Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/) CS285 at UC Berkeley.
 
 <!-- ### Computer Science Lectures
 1. [Structure and Interpretation of Computer Programs] (https://web.mit.edu/alexmv/6.037/sicp.pdf) by
