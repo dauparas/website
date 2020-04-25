@@ -34,7 +34,7 @@ categories = []
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
-### Machine Learning Lectures
+### Lectures on Machine Learning
 1. [fast.ai](https://www.fast.ai/),
 2. [Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/index.html#schedule), CS224n at Stanford,
 3. [Convolutional Neural Networks for Visual Recognition](http://vision.stanford.edu/teaching/cs231n/) CS231n at Stanford,
@@ -51,15 +51,14 @@ categories = []
 7. [All of Statistics A Concise Course in Statistical Inference](https://www.stat.cmu.edu/~larry/all-of-statistics/) by Larry Wasserman,
 8. [Reinforcement learning: An introduction](http://www.incompleteideas.net/book/RLbook2018.pdf) by Richard S. Sutton and Andrew G. Barto.
 
-### Machine Learning Blogs
 
-### Computer Science Lectures
+<!-- ### Computer Science Lectures
 1. [Structure and Interpretation of Computer Programs] (https://web.mit.edu/alexmv/6.037/sicp.pdf) by
 
 ### Biology Lectures
-1. [Introduction to Biology - The Secret of Life](https://www.edx.org/course/introduction-to-biology-the-secret-of-life-3),
+1. [Introduction to Biology - The Secret of Life](https://www.edx.org/course/introduction-to-biology-the-secret-of-life-3), -->
 
-### David Tong: Lectures on Theoretical Physics
+### Lectures on Theoretical Physics by David Tong
 1. [Dynamics and Relativity](http://www.damtp.cam.ac.uk/user/tong/relativity.html)
 2. [Classical Dynamics] (http://www.damtp.cam.ac.uk/user/tong/dynamics.html)
 3. [Electromagnetism] (http://www.damtp.cam.ac.uk/user/tong/em.html)
