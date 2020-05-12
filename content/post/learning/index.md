@@ -59,7 +59,7 @@ This is a short list of books and lectures with links for myself and anyone else
 ### Biology Lectures
 1. [Introduction to Biology - The Secret of Life](https://www.edx.org/course/introduction-to-biology-the-secret-of-life-3), -->
 
-### Lectures on Theoretical Physics by David Tong:
+### Lectures on Theoretical Physics by David Tong
 1. [Dynamics and Relativity](http://www.damtp.cam.ac.uk/user/tong/relativity.html),
 2. [Classical Dynamics] (http://www.damtp.cam.ac.uk/user/tong/dynamics.html),
 3. [Electromagnetism] (http://www.damtp.cam.ac.uk/user/tong/em.html),
