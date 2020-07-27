@@ -5,7 +5,7 @@ subtitle = "by Justas Dauparas"
 # Add a summary to display on homepage (optional).
 summary = "Some books and online lectures on machine learning!"
 
-date = 2020-04-25T06:44:46-04:00
+date = 2020-07-26T06:44:46-04:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
