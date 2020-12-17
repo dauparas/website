@@ -203,7 +203,6 @@ The following video by Daniel Worrall visualises nicely how this plays out in a 
 <!-- <video width="100%" autoplay loop playsinline muted poster="http://edwag.github.io/img/translation_equivariance.jpg">
 <source src="http://edwag.github.io/video/translation_equivariance.mp4" type="video/mp4"/> -->
 
-<!-- ![](http://edwag.github.io/img/translation_equivariance.jpg) -->
 ![](https://i.imgur.com/YMCBT26.jpg)
 
 Formally, a function $h(x)$ being equivariant can be written as follows[^1]:
