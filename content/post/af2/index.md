@@ -196,14 +196,15 @@ The self-attention mechanism seems like a set of arbitrary choices, so why shoul
 ## **What is Equivariance?**
 The second machine learning concept we will take a look at is equivariance. It is explained easiest by referring to CNNs (convolutional neural networks). Convolutional layers are translation equivariant, meaning that if the input image is shifted by 3 pixels to the right, the output is also shifted by 3 pixels to the right (assuming a stride of 1). Shifting the input by a few pixels to the right does not pose an entirely new problem. Making use of this *symmetry* and treating the two inputs similarly is important: it saves parameters, reduces overfitting and speeds up learning. 
 
-The following video by Daniel Worrall visualises nicely how this plays out in a CNN (full video [here](https://www.youtube.com/watch?v=qoWAFBYOtoU)):
+The following video by Daniel Worrall visualises nicely how this plays out in a CNN (full video [here](https://youtu.be/qoWAFBYOtoU?t=34)):
 
 <!-- <iframe width="700" height="400" src="http://edwag.github.io/video/translation_equivariance.mp4" frameborder="0" allowfullscreen></iframe><a href="/" target="_blank"></a> -->
 
 <!-- <video width="100%" autoplay loop playsinline muted poster="http://edwag.github.io/img/translation_equivariance.jpg">
 <source src="http://edwag.github.io/video/translation_equivariance.mp4" type="video/mp4"/> -->
 
-[![CNNs](http://edwag.github.io/img/translation_equivariance.jpg)](http://edwag.github.io/video/translation_equivariance.mp4 "CNNs")
+<!-- ![](http://edwag.github.io/img/translation_equivariance.jpg) -->
+![](https://i.imgur.com/YMCBT26.jpg)
 
 <!-- <p align="center"> -->
 
