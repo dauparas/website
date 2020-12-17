@@ -198,7 +198,10 @@ The second machine learning concept we will take a look at is equivariance. It i
 
 The following video by Daniel Worrall visualises nicely how this plays out in a CNN (full video [here](https://www.youtube.com/watch?v=qoWAFBYOtoU)):
 
-<iframe width="700" height="400" src="http://edwag.github.io/video/translation_equivariance.mp4" frameborder="0" allowfullscreen></iframe><a href="/" target="_blank"></a>
+<!-- <iframe width="700" height="400" src="http://edwag.github.io/video/translation_equivariance.mp4" frameborder="0" allowfullscreen></iframe><a href="/" target="_blank"></a> -->
+
+<video width="100%" autoplay loop playsinline muted poster="http://edwag.github.io/img/translation_equivariance.jpg">
+<source src="http://edwag.github.io/video/translation_equivariance.mp4" type="video/mp4"/>
 
 <!-- <p align="center"> -->
 
