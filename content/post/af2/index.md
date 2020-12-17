@@ -5,7 +5,7 @@ subtitle = ""
 # Add a summary to display on homepage (optional).
 summary = "A friendly introduction to protein geometry, equivariance, and AlphaFold 2."
 
-date = 2020-12-16T06:44:46-04:00
+date = 2020-12-17T06:44:46-04:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
