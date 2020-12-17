@@ -198,7 +198,9 @@ The second machine learning concept we will take a look at is equivariance. It i
 
 The following video by Daniel Worrall visualises nicely how this plays out in a CNN (full video [here](https://www.youtube.com/watch?v=qoWAFBYOtoU)):
 
-<p align="center"><iframe width="700" height="400" src="http://edwag.github.io/video/translation_equivariance.mp4" frameborder="0" allowfullscreen></iframe><a href="/" target="_blank"></a>
+<iframe width="700" height="400" src="http://edwag.github.io/video/translation_equivariance.mp4" frameborder="0" allowfullscreen></iframe><a href="/" target="_blank"></a>
+
+<!-- <p align="center"> -->
 
 Formally, a function $h(x)$ being equivariant can be written as follows[^1]:
 
