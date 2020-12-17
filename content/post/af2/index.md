@@ -206,8 +206,6 @@ The following video by Daniel Worrall visualises nicely how this plays out in a 
 <!-- ![](http://edwag.github.io/img/translation_equivariance.jpg) -->
 ![](https://i.imgur.com/YMCBT26.jpg)
 
-<!-- <p align="center"> -->
-
 Formally, a function $h(x)$ being equivariant can be written as follows[^1]:
 
 [^1]: This equation is actually stricter than it needs to be. The transformation $\sigma$ does not have to be the same on both sides of the equation. It just needs to be a representation of the same group.
